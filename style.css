@@ -115,3 +115,8 @@ p{
     font-size: 30px;
     border-radius: 15px;
 }
+.vid{
+    height: 70vh;
+    width: 70vw;
+    border-radius: 20px;
+}
